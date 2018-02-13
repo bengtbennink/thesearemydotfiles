@@ -24,3 +24,8 @@ First I created an account on this amazing platform Github. Then I created my fi
 * git status  //   **cant be sure enough**
 
 * git commit -m "first test commit"  //  **To see if things are working**
+
+## Other configurations made by me
+
+I also personalized my .bashrc and my .gitconfig.
+I added shortcodes and wttr.in to make my life a little easier!
